@@ -68,6 +68,7 @@
 > [!NOTE]
 > Package `Pillow` need fixed\
 > `pip install Pillow==9.5.0`\
+> \
 > Modified dataset folder path in data.yaml\
 > to `./football-players-detection-8/data.yaml`\
 > modified the following lines\
