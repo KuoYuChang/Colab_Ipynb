@@ -33,7 +33,7 @@
     Implement RBF kernel SVM on torch, with self-defined kernel function and loss funciton.
     
 > [!WARNING]
-> Experimental code, Projected Gradient Method implement in our gradient update. May not able to fully control variables still satisfied the constraints.
+> Experimental code in Kernel SVM, Projected Gradient Method implement in our gradient update. May not able to fully control variables still satisfied the constraints.
 
 * 7 - [MNIST Classification Network](https://github.com/KuoYuChang/Colab_Ipynb/blob/main/video_course/mnist_torch_exercise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KuoYuChang/Colab_Ipynb/blob/main/video_course/mnist_torch_exercise.ipynb)
 
@@ -45,7 +45,8 @@
 
 
 > [!WARNING]
-> Reduce batch size if memory usage being too large.
+> In 8 Bird Classfication Fully Connected Network, may suffer memory usage issues.\
+> Reduce batch size if memory usage being too large.\
 > This exercise shows weakness of fully connected network. We don't recommend using fully connected network to complex image classifications.
 
 
@@ -55,7 +56,7 @@
 
 
 > [!NOTE]
-> To download Bird dataset, follow exercise 8: Bird Classfication Fully Connected Network.
+> To download Bird dataset in 9 Bird Classification, follow previous exercise (8: Bird Classfication Fully Connected Network).\
 > Or to download from [Kaggle Bird Dataset]( https://www.kaggle.com/veeralakrishna/200-bird-species-with-11788-images)
 
 
