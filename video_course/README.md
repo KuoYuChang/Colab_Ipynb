@@ -66,15 +66,11 @@
     Then fine-tune model on custom dataset.
 
 > [!NOTE]
-> Package `Pillow` need fixed
-> `pip install Pillow==9.5.0`
-> Modified dataset folder path in data.yaml
-> to `./football-players-detection-8/data.yaml`
-> in yaml: 
-> modified the following lines
-> `test: ../football-players-detection-8/test/images`
-
-> `train: ../football-players-detection-8/train/images`
-
+> Package `Pillow` need fixed\
+> `pip install Pillow==9.5.0`\
+> Modified dataset folder path in data.yaml\
+> to `./football-players-detection-8/data.yaml`\
+> modified the following lines\
+> `test: ../football-players-detection-8/test/images`\
+> `train: ../football-players-detection-8/train/images`\
 > `val: ../football-players-detection-8/valid/images`
-    
