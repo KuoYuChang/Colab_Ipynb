@@ -12,6 +12,7 @@
     A triangle formed by two vectors, determine if the triangle is obtuse or acute.
 
 * 2 - [Co-Prime Examination](https://github.com/KuoYuChang/Colab_Ipynb/blob/main/video_course/co_prime_exercise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KuoYuChang/Colab_Ipynb/blob/main/video_course/co_prime_exercise.ipynb)
+
     Pick two number from 2-10, determine if they are co-prime.
 
 * 3 - [Tensorflow Playground Dataset training](https://github.com/KuoYuChang/Colab_Ipynb/blob/main/video_course/tf_playground_exercise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KuoYuChang/Colab_Ipynb/blob/main/video_course/tf_playground_exercise.ipynb)
