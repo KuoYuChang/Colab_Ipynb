@@ -77,3 +77,9 @@
 > `test: ../football-players-detection-8/test/images`\
 > `train: ../football-players-detection-8/train/images`\
 > `val: ../football-players-detection-8/valid/images`
+
+
+* Appendix - [One-Stage Object Detection](https://github.com/KuoYuChang/Colab_Ipynb/blob/main/video_course/obj_detection_handcraft.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KuoYuChang/Colab_Ipynb/blob/main/video_course/obj_detection_handcraft.ipynb)
+
+    Demonstrate a simple example of one-stage object detection. Hand-crafted features.
+    Showing a intuition that how to do regression on bounding box.
